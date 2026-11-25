@@ -1,1 +1,2 @@
 The objective of this project is to build an iOS mobile application that helps travelers organize trip information and manage activities more conveniently. The scope of the application focuses on planning features, including creating individual or group trips, managering members of trips, adding activities and tracking estimated expenses.
+<img width="1516" height="856" alt="image" src="https://github.com/user-attachments/assets/99ea353c-91df-41fb-a09b-31c2cb79ac93" />
